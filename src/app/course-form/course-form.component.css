@@ -1,0 +1,7 @@
+label {
+    font-weight: bold;
+}
+
+div.checkbox > label {
+    font-weight: normal;
+} 
